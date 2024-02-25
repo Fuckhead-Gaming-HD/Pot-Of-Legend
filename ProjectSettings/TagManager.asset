@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - 
+  - 
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Wall
+  - Gold
+  - Char
+  - Shop
+  - ShopExit
+  - Buy
+  - Tab
+  - HeroSelect
+  - Tutorial
+  - menu
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: "Default"
+    uniqueID: 0
+    locked: 0
+  - name: "Pot"
+    uniqueID: 293230041
+    locked: 0
+  - name: "Char"
+    uniqueID: 2873590457
+    locked: 0
+  - name: "Gold"
+    uniqueID: 331764755
+    locked: 0
+  - name: "UI"
+    uniqueID: 3138485595
+    locked: 0
+  - name: "Tutorial"
+    uniqueID: 606696109
+    locked: 0
+  - name: "Main"
+    uniqueID: 1172226471
+    locked: 0
+  - name: "Particle"
+    uniqueID: 59076617
+    locked: 0
+  - name: "Fade"
+    uniqueID: 4263857851
+    locked: 0
